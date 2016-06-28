@@ -1,9 +1,9 @@
 package it.tp.ciao;
 
-public class Test {
+public class Pippo {
 
 	public static void main(String[] args) {
-		System.out.println("dddddddddciao");
+	System.out.println("pippo00000");
 
 	}
 
